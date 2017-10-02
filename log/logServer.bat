@@ -1,0 +1,1 @@
+java -jar log-0.0.3.jar

@@ -1,0 +1,4 @@
+com\bbva\egpi\server\log\beans\LogData.class
+com\bbva\egpi\server\log\StandaloneServer.class
+com\bbva\egpi\server\log\server\controller\RestControllerServer.class
+com\bbva\egpi\server\log\controller\LogWriter.class
